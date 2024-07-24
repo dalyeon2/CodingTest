@@ -1,24 +1,22 @@
 package Solution02;
 
+
+/*
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12945?itm_content=course14743
+ *
+ * */
+
 public class Solution {
+    private static final int MOD = 1234567;
+
     public int solution(int n) {
-        // 모듈러 연산을 위한 상수
-        final int MOD = 1234567;
+        return fibonacci(n);
+    }
 
-        // 피보나치 수를 저장할 배열
-        int[] fib = new int[n + 1];
-
-        // 초기값 설정
-        fib[0] = 0;
-        fib[1] = 1;
-
-        // 동적 프로그래밍을 사용하여 피보나치 수열 계산
-        for (int i = 2; i <= n; i++) {
-            fib[i] = (fib[i - 1] + fib[i - 2]) % MOD;
-        }
-
-        // n번째 피보나치 수를 반환
-        return fib[n];
+    private int fibonacci(int n) {
+        return n == 0 ? 0 :
+                n == 1 ? 1 :
+                (fibonacci(n - 1) + fibonacci(n - 2)) % MOD;
     }
 
     public static void main(String[] args) {
