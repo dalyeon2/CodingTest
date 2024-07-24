@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e477a4dc-2224-40b4-b863-664e4228ccc5" name="Changes" comment="[김다현] 프로젝트 생성">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e477a4dc-2224-40b4-b863-664e4228ccc5" name="Changes" comment="[김다현] 프로그래머스:가장 큰 수">
+      <change afterPath="$PROJECT_DIR$/src/Solution02/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution01/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingTest/solutions/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="solutions" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,9 +48,9 @@
     "Application.Solution.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "solutions",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Dropbox/K03/BookServer",
+    "last_opened_file_path": "C:/DCON326/CodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,7 +60,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution02.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solution01.Solution" />
       <module name="CodingTest" />
@@ -74,11 +74,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution02.Solution" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solution02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution02.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +105,7 @@
       <workItem from="1721642518031" duration="593000" />
       <workItem from="1721643447641" duration="253000" />
       <workItem from="1721644230580" duration="8461000" />
+      <workItem from="1721799010048" duration="1088000" />
     </task>
     <task id="LOCAL-00001" summary="[김다현] 프로젝트 생성">
       <option name="closed" value="true" />
@@ -133,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[김다현] 프로젝트 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="[김다현] 프로젝트 생성" />
+    <MESSAGE value="[김다현] 프로그래머스:가장 큰 수" />
+    <option name="LAST_COMMIT_MESSAGE" value="[김다현] 프로그래머스:가장 큰 수" />
   </component>
 </project>
