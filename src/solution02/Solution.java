@@ -1,4 +1,4 @@
-package Solution02;
+package solution02;
 
 
 /*

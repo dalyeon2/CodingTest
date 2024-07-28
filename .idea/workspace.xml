@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e477a4dc-2224-40b4-b863-664e4228ccc5" name="Changes" comment="[김다현] 프로그래머스:크기가 작은 부분문자열">
-      <change afterPath="$PROJECT_DIR$/src/solution04/Solution.java" afterDir="false" />
+    <list default="true" id="e477a4dc-2224-40b4-b863-664e4228ccc5" name="Changes" comment="[김다현] 백준: N번째 큰 수">
+      <change afterPath="$PROJECT_DIR$/src/solution05/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingTest/Solution02/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodingTest/Solution02/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution02/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution02/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution02.Solution" />
+    <configuration name="solution02.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution02.Solution" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Solution02.*" />
+          <option name="PATTERN" value="solution02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,7 +105,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.solution03.Solution" />
-        <item itemvalue="Application.Solution02.Solution" />
+        <item itemvalue="Application.solution02.Solution" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -126,7 +126,7 @@
       <workItem from="1721808969410" duration="38000" />
       <workItem from="1721877917378" duration="3973000" />
       <workItem from="1721965293999" duration="10328000" />
-      <workItem from="1722140810220" duration="605000" />
+      <workItem from="1722140810220" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="[김다현] 프로젝트 생성">
       <option name="closed" value="true" />
@@ -160,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721886543128</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[김다현] 백준: N번째 큰 수">
+      <option name="closed" value="true" />
+      <created>1722141509277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722141509278</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +202,7 @@
     <MESSAGE value="[김다현] 프로그래머스:가장 큰 수" />
     <MESSAGE value="[김다현] 프로그래머스:피보나치 수" />
     <MESSAGE value="[김다현] 프로그래머스:크기가 작은 부분문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="[김다현] 프로그래머스:크기가 작은 부분문자열" />
+    <MESSAGE value="[김다현] 백준: N번째 큰 수" />
+    <option name="LAST_COMMIT_MESSAGE" value="[김다현] 백준: N번째 큰 수" />
   </component>
 </project>
